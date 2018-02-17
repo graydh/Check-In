@@ -1,4 +1,4 @@
-#MAIN2 uses the original user base file format
+#MAIN uses the original user base file format
 
 import speech_recognition as sr
 import pyaudio
